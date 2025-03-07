@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Bilge Nuray Kart**, a cybersecurity enthusiast and recent graduate in **Information Security Technology** from Istinye University.<br>
 🔍 I have a passion for **penetration testing, network security, and ethical hacking**, with hands-on experience in **CTFs, security research, and scripting**.<br>
-💭 My native language is **Turkish**, but I also speak **English (C1-C2)** and have basic knowledge of **Russian and German (A1)**.<br>
+💭 My native language is **Turkish**, but I also speak **English (A2-B1)**.<br>
 📫 Feel free to reach out for **collaborations, projects, or security research**.
 
 ---
