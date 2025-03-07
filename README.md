@@ -4,13 +4,11 @@
 💭 My native language is **Turkish**, but I also speak **English (A2-B1)**.<br>
 📫 Feel free to reach out for **collaborations, projects, or security research**.
 
--
 
 ## 🌐 Connect with Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilgenuraykart@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilge-nuray-kart-0178a6265/)
 
--
 
 ## 💻 Tech Stack:
 ### 🚀 Programming & Scripting:
@@ -28,7 +26,6 @@
 ### 🎨 Design & Media:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
--
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bilgenuray&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -38,7 +35,6 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=bilgenuray&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
--
 
 [![](https://visitcount.itsvg.in/api?id=bilgenuray&icon=7&color=4)](https://visitcount.itsvg.in)
 
